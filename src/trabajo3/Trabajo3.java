@@ -110,7 +110,7 @@ public class Trabajo3 {
       
     }
      
- public static void ejercico3() {
+ public static void ejercicio3() {
     //  Programa que muestre un menú 
      Scanner leer = new Scanner(System.in);
        
