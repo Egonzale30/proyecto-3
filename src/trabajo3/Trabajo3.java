@@ -222,7 +222,7 @@ public class Trabajo3 {
   
   
   }
-     public static void jerciio4() {
+     public static void ejercicio4() {
      //listado hombres y mujeres
         Scanner scan = new Scanner(System.in);
 
